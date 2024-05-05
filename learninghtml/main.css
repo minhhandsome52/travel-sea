@@ -1,0 +1,22 @@
+#header{
+    background-color: black;
+    
+}
+.header-title{
+    color: turquoise;
+    text-align: center;
+    font-family: Arial,"Times New Roman",Times,serif;
+}
+
+.header-logo{
+    text-align: center;
+}
+#main{
+    background-color: aquamarine;
+    header-logo img{
+        width: 10px;
+    }
+}
+    #footer{
+        background-color: yellow;
+    }
